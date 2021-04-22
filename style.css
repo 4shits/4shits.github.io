@@ -44,7 +44,7 @@ p.question {
     justify-content: center;
     align-items: center;
     text-align: center;
-
+    flex-direction: column;
 }
 
 h1 {

@@ -1,6 +1,6 @@
 ideologies = [
     {
-        "name": "Anarcho-Communism",
+        "name": "Анархо-говнизм",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -9,43 +9,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Communism",
-        "stats": {
-            "econ": 100,
-            "dipl": 70,
-            "govt": 80,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Trotskyism",
-        "stats": {
-            "econ": 100,
-            "dipl": 100,
-            "govt": 60,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Marxism",
-        "stats": {
-            "econ": 100,
-            "dipl": 70,
-            "govt": 40,
-            "scty": 80
-        }
-    },
-    {
-        "name": "De Leonism",
-        "stats": {
-            "econ": 100,
-            "dipl": 30,
-            "govt": 30,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Leninism",
+        "name": "Говно-Ленинизм",
         "stats": {
             "econ": 100,
             "dipl": 40,
@@ -54,7 +18,7 @@ ideologies = [
         }
     },
     {
-        "name": "Stalinism/Maoism",
+        "name": "Говно-Сталинизм",
         "stats": {
             "econ": 100,
             "dipl": 20,
@@ -63,16 +27,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Communism",
-        "stats": {
-            "econ": 100,
-            "dipl": 50,
-            "govt": 30,
-            "scty": 30
-        }
-    },
-    {
-        "name": "State Socialism",
+        "name": "Государственный Соцговнизм",
         "stats": {
             "econ": 80,
             "dipl": 30,
@@ -81,25 +36,7 @@ ideologies = [
         }
     },
     {
-        "name": "Theocratic Socialism",
-        "stats": {
-            "econ": 80,
-            "dipl": 50,
-            "govt": 30,
-            "scty": 20
-        }
-    },
-    {
-        "name": "Religious Socialism",
-        "stats": {
-            "econ": 80,
-            "dipl": 50,
-            "govt": 70,
-            "scty": 20
-        }
-    },
-    {
-        "name": "Democratic Socialism",
+        "name": "Демократический соцговнизм",
         "stats": {
             "econ": 80,
             "dipl": 50,
@@ -108,34 +45,7 @@ ideologies = [
         }
     },
     {
-        "name": "Revolutionary Socialism",
-        "stats": {
-            "econ": 80,
-            "dipl": 20,
-            "govt": 50,
-            "scty": 70
-        }
-    },
-    {
-        "name": "Libertarian Socialism",
-        "stats": {
-            "econ": 80,
-            "dipl": 80,
-            "govt": 80,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Anarcho-Syndicalism",
-        "stats": {
-            "econ": 80,
-            "dipl": 50,
-            "govt": 100,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Left-Wing Populism",
+        "name": "Левокрылый говнопопулизм",
         "stats": {
             "econ": 60,
             "dipl": 40,
@@ -144,52 +54,7 @@ ideologies = [
         }
     },
     {
-        "name": "Theocratic Distributism",
-        "stats": {
-            "econ": 60,
-            "dipl": 40,
-            "govt": 30,
-            "scty": 20
-        }
-    },
-    {
-        "name": "Distributism",
-        "stats": {
-            "econ": 60,
-            "dipl": 50,
-            "govt": 50,
-            "scty": 20
-        }
-    },
-    {
-        "name": "Social Liberalism",
-        "stats": {
-            "econ": 60,
-            "dipl": 60,
-            "govt": 60,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Christian Democracy",
-        "stats": {
-            "econ": 60,
-            "dipl": 60,
-            "govt": 50,
-            "scty": 30
-        }
-    },
-    {
-        "name": "Social Democracy",
-        "stats": {
-            "econ": 60,
-            "dipl": 70,
-            "govt": 60,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Progressivism",
+        "name": "Прогрессивное говноедство",
         "stats": {
             "econ": 60,
             "dipl": 80,
@@ -198,16 +63,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Mutualism",
-        "stats": {
-            "econ": 60,
-            "dipl": 50,
-            "govt": 100,
-            "scty": 70
-        }
-    },
-    {
-        "name": "National Totalitarianism",
+        "name": "Национал-копрофилия",
         "stats": {
             "econ": 50,
             "dipl": 20,
@@ -216,16 +72,7 @@ ideologies = [
         }
     },
     {
-        "name": "Global Totalitarianism",
-        "stats": {
-            "econ": 50,
-            "dipl": 80,
-            "govt": 0,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Technocracy",
+        "name": "Технодерьмизм",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -234,7 +81,7 @@ ideologies = [
         }
     },
     {
-        "name": "Centrist",
+        "name": "Говно-Центризм",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -243,7 +90,7 @@ ideologies = [
         }
     },
     {
-        "name": "Liberalism",
+        "name": "Либеральный говнизм",
         "stats": {
             "econ": 50,
             "dipl": 60,
@@ -252,52 +99,7 @@ ideologies = [
         }
     },
     {
-        "name": "Religious Anarchism",
-        "stats": {
-            "econ": 50,
-            "dipl": 50,
-            "govt": 100,
-            "scty": 20
-        }
-    },
-    {
-        "name": "Right-Wing Populism",
-        "stats": {
-            "econ": 40,
-            "dipl": 30,
-            "govt": 30,
-            "scty": 30
-        }
-    },
-    {
-        "name": "Moderate Conservatism",
-        "stats": {
-            "econ": 40,
-            "dipl": 40,
-            "govt": 50,
-            "scty": 30
-        }
-    },
-    {
-        "name": "Reactionary",
-        "stats": {
-            "econ": 40,
-            "dipl": 40,
-            "govt": 40,
-            "scty": 10
-        }
-    },
-    {
-        "name": "Social Libertarianism",
-        "stats": {
-            "econ": 60,
-            "dipl": 70,
-            "govt": 80,
-            "scty": 70
-        }
-    },
-    {
-        "name": "Libertarianism",
+        "name": "Либертарная копрофилия",
         "stats": {
             "econ": 40,
             "dipl": 60,
@@ -306,16 +108,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anarcho-Egoism",
-        "stats": {
-            "econ": 40,
-            "dipl": 50,
-            "govt": 100,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Nazism",
+        "name": "Национал-Говнизм",
         "stats": {
             "econ": 40,
             "dipl": 0,
@@ -324,34 +117,7 @@ ideologies = [
         }
     },
     {
-        "name": "Autocracy",
-        "stats": {
-            "econ": 50,
-            "dipl": 20,
-            "govt": 20,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Fascism",
-        "stats": {
-            "econ": 40,
-            "dipl": 20,
-            "govt": 20,
-            "scty": 20
-        }
-    },
-    {
-        "name": "Capitalist Fascism",
-        "stats": {
-            "econ": 20,
-            "dipl": 20,
-            "govt": 20,
-            "scty": 20
-        }
-    },
-    {
-        "name": "Conservatism",
+        "name": "Консервы из говна",
         "stats": {
             "econ": 30,
             "dipl": 40,
@@ -360,52 +126,7 @@ ideologies = [
         }
     },
     {
-        "name": "Neo-Liberalism",
-        "stats": {
-            "econ": 30,
-            "dipl": 30,
-            "govt": 50,
-            "scty": 60
-        }
-    },
-    {
-        "name": "Classical Liberalism",
-        "stats": {
-            "econ": 30,
-            "dipl": 60,
-            "govt": 60,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Authoritarian Capitalism",
-        "stats": {
-            "econ": 20,
-            "dipl": 30,
-            "govt": 20,
-            "scty": 40
-        }
-    },
-    {
-        "name": "State Capitalism",
-        "stats": {
-            "econ": 20,
-            "dipl": 50,
-            "govt": 30,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Neo-Conservatism",
-        "stats": {
-            "econ": 20,
-            "dipl": 20,
-            "govt": 40,
-            "scty": 20
-        }
-    },
-    {
-        "name": "Fundamentalism",
+        "name": "Говёный Фундаментализм",
         "stats": {
             "econ": 20,
             "dipl": 30,
@@ -414,16 +135,7 @@ ideologies = [
         }
     },
     {
-        "name": "Libertarian Capitalism",
-        "stats": {
-            "econ": 20,
-            "dipl": 50,
-            "govt": 80,
-            "scty": 60
-        }
-    },
-    {
-        "name": "Market Anarchism",
+        "name": "Говно-Анкап",
         "stats": {
             "econ": 20,
             "dipl": 50,
@@ -432,7 +144,7 @@ ideologies = [
         }
     },
     {
-        "name": "Objectivism",
+        "name": "Говно-Объективизм",
         "stats": {
             "econ": 10,
             "dipl": 50,
@@ -440,31 +152,4 @@ ideologies = [
             "scty": 40
         }
     },
-    {
-        "name": "Totalitarian Capitalism",
-        "stats": {
-            "econ": 0,
-            "dipl": 30,
-            "govt": 0,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Ultra-Capitalism",
-        "stats": {
-            "econ": 0,
-            "dipl": 40,
-            "govt": 50,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Anarcho-Capitalism",
-        "stats": {
-            "econ": 0,
-            "dipl": 50,
-            "govt": 100,
-            "scty": 50
-        }
-    }
 ];
